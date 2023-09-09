@@ -1,4 +1,9 @@
 # cse210-ww-student-template
+
+Name: Ndikum Sabastine Ndifor
+Purpose: Continious larning to grow skills
+Date: 09/09/2023
+
 This is the starter code for students in the worldwide content version of CSE 210.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
