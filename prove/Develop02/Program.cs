@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Creating an instance of the journal class.
+        // Creating an instance of the journal class with.
 
         Journal j1 = new Journal();
        

@@ -4,7 +4,7 @@ public class Entry
 {
     /* 
       This class displays the date, prompts and users response
-      in a defined string format.
+      in a defined string format .
     */
     public string _date;
     public string _prompt;

@@ -36,7 +36,7 @@ public class Journal
     public void SaveToCSV()
     {
         /* 
-          Asks for the user to enter a file name without the extension,
+          Ask for the user to enter a file name without the extension,
           writes to the file and saves it with the enered file name 
         */
         Console.Write("Enter the file name(without the .csv extension at the end of your file name): ");
@@ -56,7 +56,7 @@ public class Journal
     public void LoadFromCSV()
     {
         // Loads your saves in csv format
-        
+
         string fileName = "journal.csv";
         string[] lines = System.IO.File.ReadAllLines(fileName);
         foreach(string line in lines)

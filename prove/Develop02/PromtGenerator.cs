@@ -28,7 +28,7 @@ class PromtGenerator
     public string GetRandomPrompt()
     {
         // The class responsible for generating the random promts.
-        
+
         Random rand = new Random();
         string _prompt = _prompts[rand.Next(_prompts.Length)];
         Console.WriteLine(_prompt);
